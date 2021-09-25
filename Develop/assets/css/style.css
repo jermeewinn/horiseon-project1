@@ -88,7 +88,7 @@ p {
     color: #ffffff;
 }
 
-.benefit h3 {
+.benefit h1 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -112,7 +112,7 @@ p {
     max-height: 200px;
 }
 
-.features h2 {
+.features h1 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -124,6 +124,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h1 {
     font-size: 20px;
 }
