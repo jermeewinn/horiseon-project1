@@ -25,4 +25,3 @@ I've gone in and changed the <div> elements to something more semantic to denote
   
   ![README_Screenshot2](https://user-images.githubusercontent.com/88342540/134784716-373eed4a-071e-4fc0-becd-61aabbfdd22f.png)
 
- Link to deployed application: 
