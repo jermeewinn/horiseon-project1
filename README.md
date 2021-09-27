@@ -1,4 +1,17 @@
-# horiseon-project1
+# Horiseon
+
+## Purpose
+A website that offers online marketing and presence augmentation service to its clients.
+
+## Built with
+* HTML
+* CSS
+
+## Website
+https://jermeewinn.github.io/horiseon-project1/
+
+## Contribution
+Made by Jeremy Huynh
 
 Horiseon-project1 is my first independent project for the UC Berkeley extension class.
 
@@ -12,4 +25,4 @@ I've gone in and changed the <div> elements to something more semantic to denote
   
   ![README_Screenshot2](https://user-images.githubusercontent.com/88342540/134784716-373eed4a-071e-4fc0-becd-61aabbfdd22f.png)
 
- Link to deployed application: https://jermeewinn.github.io/horiseon-project1/
+ Link to deployed application: 
